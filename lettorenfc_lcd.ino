@@ -26,8 +26,8 @@ PN532 nfc(pn532i2c);
 volatile bool connected = false;
 
 // Credenziali Wi-Fi
-const char* ssid = "FibraPlanetel_237188";
-const char* password = "Plt21ch10d1";
+const char* ssid = "...";
+const char* password = "...";
 const int relayPin = 14;
 
 // URL per il file JSON
